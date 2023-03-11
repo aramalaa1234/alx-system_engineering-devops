@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -h vincentaff _hello
